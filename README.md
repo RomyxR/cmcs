@@ -1,4 +1,4 @@
 # CMCS
-A Python script that will create a vanilla Minecraft server for you.
-
-Everything runs on the requests standard library.
+A Python script that will create a ready-made Vanilla, Paper, or Purpur server for Minecraft.
+> [!TIP]
+> Make sure that the specific kernel supports your chosen version of Minecraft, otherwise you'll get an error.
